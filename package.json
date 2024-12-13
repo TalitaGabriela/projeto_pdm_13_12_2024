@@ -1,0 +1,21 @@
+{
+  "name": "exemplo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "idb": "^7.1.1",
+    "vite": "^4.4.5",
+    "workbox-cacheable-response": "^6.5.4",
+    "workbox-expiration": "^6.5.4",
+    "workbox-recipes": "^6.5.4",
+    "workbox-routing": "^6.5.4",
+    "workbox-strategies": "^6.5.4",
+    "workbox-streams": "^6.5.4"
+  }
+}
